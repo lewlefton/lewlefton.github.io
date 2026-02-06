@@ -1,0 +1,57 @@
+# Site Settings
+title: Lew Lefton
+description: "Mathematician. Comedian. Maker."
+#url: "https://lewlefton.com" # Change to http://localhost:4000 for local testing
+url: "https://localhost:4000 for local testing
+author:
+  name: Lew Lefton
+  bio: "Mathematician. Comedian. Maker."
+  location: "Decatur, GA"
+
+# Theme Selection (Minimal Mistakes is highly recommended for this structure)
+remote_theme: mmistakes/minimal-mistakes
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Collections (This creates your specific "Tiles")
+collections:
+  publications:
+    output: true
+    permalink: /academic/:path/
+  comedy:
+    output: true
+    permalink: /comedy/:path/
+  projects:
+    output: true
+    permalink: /making/:path/
+
+# Default Front Matter (Sets default layouts)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: "comedy"
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: single
+      author_profile: true
