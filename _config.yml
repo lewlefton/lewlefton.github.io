@@ -1,6 +1,7 @@
+# Site Settings
 title: Lew Lefton
-description: "Mathematician. Comedian. Maker. IT Leader."
-url: "https://lewlefton.com"
+description: "Mathematician. Comedian. Maker."
+url: "https://lewlefton.com" # Change to http://localhost:4000 for local testing
 remote_theme: mmistakes/minimal-mistakes
 markdown: kramdown
 plugins:
@@ -43,5 +44,6 @@ collections:
     permalink: /making/:path/
 author:
   name: Lew Lefton
+  avatar: "/assets/images/lew_headshot_square.jpg"
   bio: "My multifaceted life in STEM, Humor, and Making."
   location: "Decatur, GA"
