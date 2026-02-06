@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 header:
-  overlay_image: /assets/images/hero-lew.jpg # You'll need to upload this later!
+  overlay_image: /assets/images/hero-lew.png # You'll need to upload this later!
   overlay_filter: 0.5 # Darkens image so text is readable (0.0 to 1.0)
 excerpt: "Welcome to my personal archive. From Georgia Tech to the comedy stage, and the maker space in between."
 
