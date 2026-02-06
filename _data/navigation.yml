@@ -1,0 +1,13 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Academic"
+    url: /academic/
+  - title: "Comedy"
+    url: /comedy/
+  - title: "Making"
+    url: /making/
+  - title: "Personal"
+    url: /year-archive/
+  - title: "Contact"
+    url: /contact/
