@@ -1,10 +1,11 @@
 ---
 layout: home
 author_profile: true
+title: "Lew Lefton"
 header:
   overlay_image: /assets/images/hero-lew.png # You'll need to upload this later!
   overlay_filter: 0.5 # Darkens image so text is readable (0.0 to 1.0)
-excerpt: "Welcome to my personal archive. From Georgia Tech to the comedy stage, and the maker space in between."
+excerpt: "Mathematician and Comedian. He's funny and he can prove it!"
 
 # This defines the "Tiles"
 feature_row:
@@ -33,7 +34,7 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-## What I Do
+## Lew Lefton
 
 The world is too interesting to stick to one lane. Explore the sections below.
 
