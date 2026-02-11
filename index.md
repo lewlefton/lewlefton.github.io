@@ -11,7 +11,7 @@ excerpt: "Mathematician and Comedian<br>He's funny and he can prove it!"
 feature_row:
   - image_path: /assets/images/tile-academic.jpg
     alt: "Professional"
-    title: "Professional""
+    title: "Professional"
     excerpt: "Research, Teaching, and Academic Service"
     url: "/professional/"
     btn_label: "View Publications"
@@ -38,7 +38,7 @@ feature_row:
     title: "Personal"
     excerpt: "Family, Travel, and Holiday Letters"
     url: "/personal/"
-    btn_label: "See Holiday Letters""
+    btn_label: "See Holiday Letters"
     btn_class: "btn--info"
 ---
 
