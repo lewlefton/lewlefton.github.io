@@ -36,10 +36,6 @@ tiles:
 
 ## Lew Lefton is not your ordinary math geek.
 
-He's on the mathematics faculty at Georgia Tech (semi-retired), with interests at the intersection of math, computing, and data. He's learned a lot of mathematics, science, and technology by working with top researchers around the world.
-
-However, unlike most of his professional colleagues, he's also an accomplished comedian with decades of experience performing and teaching stand up and improv comedy.
-
-Lefton is also an innovator and entrepreneur. He was instrumental in founding a successful nonprofit business called Decatur Makers, which has developed into a thriving makerspace serving a diverse community of artists, creatives, and builders.
+He's on the mathematics faculty at Georgia Tech (semi-retired), with interests at the intersection of math, computing, and data. He's also an accomplished comedian with decades of experience performing and teaching stand up and improv comedy. Lefton is also an innovator and entreprenuer, evidenced by his role as a founder of <a href="https://www.decaturmakers.org">Decatur Makers</a>, a successful nonprofit community makerspace serving a diverse community of artists, creatives, and builders.
 
 {% include tile_grid.html tiles=page.tiles %}
