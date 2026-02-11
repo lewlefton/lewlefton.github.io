@@ -9,26 +9,26 @@ excerpt: "Mathematician and Comedian<br>He's funny and he can prove it!"
 
 # This defines the "Tiles"
 feature_row:
-  - image_path: /assets/images/tile-academic.jpg
-    alt: "Academic Work"
+  - image_path: /assets/images/tile-professional.jpg
+    alt: "Professional"
     title: "[Professional](/professional/)"
     excerpt: "Research, Teaching, and Academic Service"
     url: "/professional/"
 
   - image_path: /assets/images/tile-comedy.jpg
-    alt: "Comedy Performance"
+    alt: "Comedy"
     title: "[Comedy](/comedy/)"
     excerpt: "Standup, improv, and April Fools jokes"
     url: "/comedy/"
 
-  - image_path: /assets/images/tile-making.jpg
-    alt: "Electronics Project"
+  - image_path: /assets/images/tile-projects.jpg
+    alt: "Projects"
     title: "[Projects](/projects/)"
     excerpt: "Making, informal STE(A)M education, and other activities"
     url: "/projects/"
 
   - image_path: /assets/images/tile-personal.jpg
-    alt: "Family Photo"
+    alt: "Personal"
     title: "[Personal](/personal/)"
     excerpt: "Family, Travel, and Holiday Letters"
     url: "/personal/"
