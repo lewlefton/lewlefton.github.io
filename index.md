@@ -44,6 +44,4 @@ However, unlike most of his professional colleagues, he's also an accomplished c
 
 Lefton is also an innovator and entrepreneur. He was instrumental in founding a successful nonprofit business called Decatur Makers, which has developed into a thriving makerspace serving a diverse community of artists, creatives, and builders.
 
-{% include feature_row id="feature_row_1" %}
-{% include feature_row id="feature_row_2" %}
 {% include tile_grid.html tiles=page.tiles %}
