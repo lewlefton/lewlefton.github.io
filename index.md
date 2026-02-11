@@ -5,7 +5,9 @@ title: "Lew Lefton"
 header:
   overlay_image: /assets/images/hero-lew.png # You'll need to upload this later!
   overlay_filter: 0.5 # Darkens image so text is readable (0.0 to 1.0)
-excerpt: "Mathematician and Comedian.\n He's funny and he can prove it!"
+excerpt: >
+Mathematician and Comedian.<br>
+He's funny and he can prove it!
 
 # This defines the "Tiles"
 feature_row:
