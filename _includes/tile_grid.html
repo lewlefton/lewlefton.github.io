@@ -1,28 +1,56 @@
-<div class="feature__wrapper">
+<div class="tile-grid-wrapper">
   {% for tile in include.tiles %}
-    <div class="feature__item" style="flex-basis: 50%; max-width: 50%;">
+    <div class="tile-item">
       <div class="archive__item">
+        
         <div class="archive__item-teaser">
-          <a href="{{ tile.url }}">
-            <img src="{{ tile.image_path }}" alt="{{ tile.title }}" />
+          <a href="{{ tile.url | relative_url }}">
+            <img src="{{ tile.image_path | relative_url }}" alt="{{ tile.alt }}" />
           </a>
         </div>
+
         <div class="archive__item-body">
           <h2 class="archive__item-title">
-            <a href="{{ tile.url }}">{{ tile.title }}</a>
+            <a href="{{ tile.url | relative_url }}">{{ tile.title }}</a>
           </h2>
-          <div class="archive__item-excerpt">{{ tile.excerpt }}</div>
+          <div class="archive__item-excerpt">
+            <p>{{ tile.excerpt }}</p>
+          </div>
         </div>
+
       </div>
     </div>
   {% endfor %}
 </div>
 
 <style>
-/* Simple CSS to force a 2x2 grid on desktop, 1x1 on mobile */
-.feature__wrapper {
+/* 1. The Container: Flexbox Magic */
+.tile-grid-wrapper {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  flex-wrap: wrap;       /* Allow items to wrap to the next line */
+  justify-content: space-between; /* Put space between the two columns */
+  gap: 20px;             /* Vertical and horizontal gap */
+}
+
+/* 2. The Items: Force 50% width (minus gap) */
+.tile-item {
+  width: calc(50% - 10px); /* Strictly calculate half width minus gap */
+  box-sizing: border-box;  /* Ensure padding doesn't break the width */
+  margin-bottom: 0;        /* Let the gap handle vertical spacing */
+}
+
+/* 3. Mobile Responsiveness: Stack on small screens */
+@media (max-width: 600px) {
+  .tile-item {
+    width: 100%; /* Go back to big tiles on phones */
+  }
+}
+
+/* 4. Tame the Images: Stop them from exploding */
+.archive__item-teaser img {
+  width: 100%;
+  height: auto;
+  object-fit: cover; /* Crop nicely if ratios differ */
+  margin-bottom: 0.5em;
 }
 </style>
