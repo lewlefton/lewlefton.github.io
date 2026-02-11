@@ -1,13 +1,13 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Academic"
-    url: /academic/
+  - title: "Professional"
+    url: /professional/
   - title: "Comedy"
     url: /comedy/
-  - title: "Making"
-    url: /making/
+  - title: "Projects"
+    url: /projects/
   - title: "Personal"
-    url: /year-archive/
+    url: /personal/
   - title: "Contact"
     url: /contact/

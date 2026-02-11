@@ -16,7 +16,7 @@ defaults:
       author_profile: true
   - scope:
       path: ""
-      type: "publications"
+      type: "professional"
     values:
       layout: single
       author_profile: true
@@ -40,7 +40,7 @@ defaults:
       author_profile: true
 
 collections:
-  publications:
+  professional:
     output: true
     permalink: /professional/:path/
   comedy:
