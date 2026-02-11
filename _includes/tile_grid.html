@@ -1,0 +1,19 @@
+<div class="feature__wrapper">
+  {% for tile in include.tiles %}
+    <div class="feature__item" style="flex-basis: 50%; max-width: 50%;">
+      <div class="archive__item">
+        <div class="archive__item-teaser">
+          <a href="{{ tile.url }}">
+            <img src="{{ tile.image_path }}" alt="{{ tile.title }}" />
+          </a>
+        </div>
+        <div class="archive__item-body">
+          <h2 class="archive__item-title">
+            <a href="{{ tile.url }}">{{ tile.title }}</a>
+          </h2>
+          <div class="archive__item-excerpt">{{ tile.excerpt }}</div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

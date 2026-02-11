@@ -11,14 +11,15 @@ excerpt: "Mathematician and Comedian<br>He's funny and he can prove it!"
 feature_row_1:
   - image_path: /assets/images/tile-professional.jpg
     alt: "Professional"
-    title: "[Professional](/professional/)"
+    title: "Professional"
     excerpt: "Research, Teaching, and Academic Service"
-    # Note: No 'url' field here, so no 'Learn More' button!
+    url: /professional/
 
   - image_path: /assets/images/tile-comedy.jpg
     alt: "Comedy"
     title: "[Comedy](/comedy/)"
     excerpt: "Standup, improv, and April Fools jokes"
+    url: /comedy/
 
 # Row 2: Bottom Two Tiles
 feature_row_2:
@@ -26,11 +27,13 @@ feature_row_2:
     alt: "Projects"
     title: "[Projects](/projects/)"
     excerpt: "Making, informal STE(A)M education, and other activities"
+    url: /projects/
 
   - image_path: /assets/images/tile-personal.jpg
     alt: "Personal"
     title: "[Personal](/personal/)"
     excerpt: "Family, Travel, and Holiday Letters"
+    url: /personal/
 ---
 
 ## Lew Lefton is not your ordinary math geek.
@@ -43,3 +46,4 @@ Lefton is also an innovator and entrepreneur. He was instrumental in founding a 
 
 {% include feature_row id="feature_row_1" %}
 {% include feature_row id="feature_row_2" %}
+{% include tile_grid.html tiles=page.tiles %}
