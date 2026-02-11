@@ -14,32 +14,24 @@ feature_row:
     title: "Professional"
     excerpt: "Research, Teaching, and Academic Service"
     url: "/professional/"
-    btn_label: "View Publications"
-    btn_class: "btn--primary"
 
   - image_path: /assets/images/tile-comedy.jpg
     alt: "Comedy"
     title: "Comedy"
     excerpt: "Standup, improv, and April Fools jokes"
     url: "/comedy/"
-    btn_label: "Watch Videos"
-    btn_class: "btn--warning"
 
   - image_path: /assets/images/tile-making.jpg
     alt: "Projects"
     title: "Projects"
     excerpt: "Making, informal STE(A)M education, and other activities"
     url: "/projects/"
-    btn_label: "See Projects"
-    btn_class: "btn--info"
 
   - image_path: /assets/images/tile-personal.jpg
     alt: "Personal"
     title: "Personal"
     excerpt: "Family, Travel, and Holiday Letters"
     url: "/personal/"
-    btn_label: "See Holiday Letters"
-    btn_class: "btn--info"
 ---
 
 ## Lew Lefton is not your ordinary math geek.
