@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/tile-academic.jpg
     alt: "Professional"
     title: "Professional""
-    excerpt: "Research, Teaching, and Academice Service"
+    excerpt: "Research, Teaching, and Academic Service"
     url: "/professional/"
     btn_label: "View Publications"
     btn_class: "btn--primary"
@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/tile-making.jpg
     alt: "Projects"
     title: "Projects"
-    excerpt: "Making, writinrga, and ideas"
+    excerpt: "Making, informal STE(A)M education, and other activities"
     url: "/projects/"
     btn_label: "See Projects"
     btn_class: "btn--info"
