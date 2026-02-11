@@ -42,9 +42,7 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-## Lew Lefton
-
-Lefton is not your ordinary math geek.
+## Lew Lefton is not your ordinary math geek.
 
 He's on the mathematics faculty at Georgia Tech (semi-retired), with interests at the intersection of math, computing, and data. He's learned a lot of mathematics, science, and technology by working with top researchers around the world.
 
