@@ -12,32 +12,47 @@ He's funny and he can prove it!
 # This defines the "Tiles"
 feature_row:
   - image_path: /assets/images/tile-academic.jpg
-    alt: "Academic"
-    title: "Academic & STEM"
-    excerpt: "My work in mathematics, publications, and STEM education."
-    url: "/academic/"
+    alt: "Professional"
+    title: "Professional""
+    excerpt: "Research, Teaching, and Academice Service"
+    url: "/professional/"
     btn_label: "View Publications"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/tile-comedy.jpg
     alt: "Comedy"
-    title: "Comedy & Performance"
-    excerpt: "Standup, improv, and the archive of my April Fools jokes."
+    title: "Comedy"
+    excerpt: "Standup, improv, and April Fools jokes"
     url: "/comedy/"
     btn_label: "Watch Videos"
     btn_class: "btn--warning"
 
   - image_path: /assets/images/tile-making.jpg
-    alt: "Making"
-    title: "Making & Projects"
-    excerpt: "Decatur Makers projects, 3D printing, and other hacks."
-    url: "/making/"
+    alt: "Projects"
+    title: "Projects"
+    excerpt: "Making, writinrga, and ideas"
+    url: "/projects/"
     btn_label: "See Projects"
+    btn_class: "btn--info"
+
+  - image_path: /assets/images/tile-personal.jpg
+    alt: "Personal"
+    title: "Personal"
+    excerpt: "Family, Travel, and Holiday Letters"
+    url: "/personal/"
+    btn_label: "See Holiday Letters""
     btn_class: "btn--info"
 ---
 
 ## Lew Lefton
 
-The world is too interesting to stick to one lane. Explore the sections below.
+Lefton is not your ordinary math geek.
+
+He's on the mathematics faculty at Georgia Tech (semi-retired), with interests at the intersection of math, computing, and data. He's learned a lot of mathematics, science, and technology by working with top researchers around the world.
+
+However, unlike most of his professional colleagues, he's also an accomplished comedian with decades of experience performing and teaching stand up and improv comedy.
+
+Lefton is also an innovator and entreprenuer. He was instrumental in founding a successful nonprofit business called Decatur Makers, which has developed into a thriving makerspace serving a diverse community of artists, creatives, and builders.
+
 
 {% include feature_row %}
