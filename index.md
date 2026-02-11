@@ -7,33 +7,31 @@ header:
   overlay_filter: 0.5
 excerpt: "Mathematician and Comedian<br>He's funny and he can prove it!"
 
-# Row 1: Top Two Tiles
-feature_row_1:
+# THIS IS YOUR NEW DATA SOURCE
+tiles:
   - image_path: /assets/images/tile-professional.jpg
     alt: "Professional"
     title: "Professional"
     excerpt: "Research, Teaching, and Academic Service"
-    url: /professional/
+    url: "/professional/"
 
   - image_path: /assets/images/tile-comedy.jpg
     alt: "Comedy"
-    title: "[Comedy](/comedy/)"
+    title: "Comedy"
     excerpt: "Standup, improv, and April Fools jokes"
-    url: /comedy/
+    url: "/comedy/"
 
-# Row 2: Bottom Two Tiles
-feature_row_2:
   - image_path: /assets/images/tile-projects.jpg
     alt: "Projects"
-    title: "[Projects](/projects/)"
+    title: "Projects"
     excerpt: "Making, informal STE(A)M education, and other activities"
-    url: /projects/
+    url: "/projects/"
 
   - image_path: /assets/images/tile-personal.jpg
     alt: "Personal"
-    title: "[Personal](/personal/)"
+    title: "Personal"
     excerpt: "Family, Travel, and Holiday Letters"
-    url: /personal/
+    url: "/personal/"
 ---
 
 ## Lew Lefton is not your ordinary math geek.
