@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Maker Projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 
 # Define your project tiles right here!
-#tiles:
+tiles:
 #  - image_path: /assets/images/project-halloween.jpg
 #    title: "Halloween Laser Dolls"
 #    excerpt: "Creepy dolls with laser eyes controlled by Arduino."
