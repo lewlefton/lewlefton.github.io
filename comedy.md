@@ -17,7 +17,7 @@ tiles:
 #    url: "#" 
 ---
 
-## Stuff I've Built
-Here is a collection of projects, ranging from science to art.
+## “Laughter is the shortest distance between two people.” —Victor Borge
+Here are some of my comedy milestones..
 
 {% include tile_grid.html tiles=page.tiles %}
