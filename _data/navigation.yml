@@ -1,13 +1,13 @@
 main:
   - title: "About"
-    url: /about/
+    url: "/about/"
   - title: "Professional"
-    url: /professional/
+    url: "/professional/"
   - title: "Comedy"
-    url: /comedy/
+    url: "/comedy/"
   - title: "Projects"
-    url: /projects/
+    url: "/projects/"
   - title: "Personal"
-    url: /personal/
+    url: "/personal/"
   - title: "Contact"
-    url: /contact/
+    url: "/contact/"
