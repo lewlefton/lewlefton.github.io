@@ -29,7 +29,7 @@ It is easiest to bend the wire with a simple jig.
     If you have access to a table saw and are comfortable with making precise cuts, cut a small board which is 22 mm wide. You can use this for bending the ends of the wires.
 ## Assembly Notes
 Here is a photo of the finished assembly.
-{% include figure image_path="/assets/images/project-3Dflexagon.jpg" class="half" alt="Description" caption="Figure 1: Finished 3D Flexagon." %}
+{% include figure image_path="/assets/images/project-3Dflexagon.jpg" class="align-center half" alt="Finished Flexagon" caption="Figure 1: Finished 3D Flexagon." %}
 
 * Note 1: There are four wires going into each straw, two from each direction. 
 * Note 2: In this orientation, the wires with right angles (see figure 2) end up making a large equilateral triangle where each side has two wire segments that are “horizontal” with straws pointing outward. The wires with ~60° angles connect the “vertical” straws to the “horizontal” straws in an “up and down” pattern. 
@@ -41,6 +41,9 @@ Unbend the paper clips to create 12 wires that are more or less straight. Cut 6 
 ## Step 2: Cut the straw
 Cut the straw into 22mm segments. You will need 6 of them.
 ## Step 3: Bending the 85 mm segments
+Start by bending a 90° angle in the 85 mm wires, with 22mm on side of the angle. On the other end of the same wire, bend another 90° angle <span style="color: red; font-weight: bold;">which is in a different plane</span>. Do this two more times for a total 3 wires. Repeat the process for the other three 85 mm wires, but this time bend the 90° angle in the opposite direction (e.g. down instead of up). You should end up with 6 zigzag wires, which we call 90R and 90L as shown in figure 2. 
+{% include figure image_path="/assets/images/3Dflexagon-figure2-90degree-parts.jpg" class="align-center half" alt="Flexagon 90 degree parts" caption="Figure 2: 85 mm wires bent into non-planar 90° angles, with 22 mm ends." %}
+
 ## Step 4: Bending the 95 mm segments
 ## Step 5: Assembly
 ## Step 6. Flexing!
