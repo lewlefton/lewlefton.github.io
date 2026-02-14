@@ -33,7 +33,7 @@ It is easiest to bend the wire with a simple jig.
  
 ## Assembly Notes
 Here is a photo of the finished assembly.
-{% include figure image_path="/assets/images/project-3Dflexagon.jpg" class="align-center" width="50%" alt="Description" caption="Figure 1: Finished 3D Flexagon." %}
+{% include figure image_path="/assets/images/project-3Dflexagon.jpg" class="half" alt="Description" caption="Figure 1: Finished 3D Flexagon." %}
 
 * Note 1: There are four wires going into each straw, two from each direction. 
 * Note 2: In this orientation, the wires with right angles (see figure 2) end up making a large equilateral triangle where each side has two wire segments that are “horizontal” with straws pointing outward. The wires with ~60° angles connect the “vertical” straws to the “horizontal” straws in an “up and down” pattern. 
