@@ -9,28 +9,27 @@ toc_icon: "cog"
 ---
 
 ## Overview
-This is a 3D flexagon design inspired by Martin Gardner’s well-known hexaflexagons, which he first explored in his *Mathematical Games* column in the December 1956 issue of Scientific American. 
-
-The design of this object is not mine. However, this approach may be new, since it is intended to be very accessible by using everyday household materials.
+These instructions show how to make a 3D flexagon fidget toy, inspired by Martin Gardner’s well-known hexaflexagons, which he first explored in his *Mathematical Games* column in the December 1956 issue of Scientific American. The design of this object is not mine. However, the approach may be new, since it is intended to be very accessible by using everyday household materials.
 
 ## What You Need
-* 12 Paperclips
-* A cocktail/coffee straw
+* 12 standard paper clips (either #1 or Jumbo will work)
+* 1 small hollow plastic straw (cocktail straw or coffee stirrer)
 * Diagonal cutting pliers to cut wire
-* Scissors or exacto knife to cut cocktail straw
+* Scissors or exacto knife to cut straw
 * Ruler with metric scale in mm
 * Needle nose pliers for bending (optional)
 * Bending jig (optional, see below)
 
 ## Note for G4G16 kits
-If you are building from the Gathering for Gardner (G4G16) kit, you should already have wires and straw segments pre-measured and cut so you can begin at step 3.
+If you are building from the kit provided in the Gathering for Gardner 16 (G4G16) gift exchange, you should already have necessary wires and straw segments pre-measured and pre-cut, so you can skip steps 1 and 2 below. These kits also have unbent paper clips and a full straw for you to make a second 3D flexagon!
 
 ## Note on Bending Jigs
 It is easiest to bend the wire with a simple jig. 
 * Option 1: 3D printed jig
-    If you have access to a 3D printer, here is a link to an STL file that you can print that may help. It is a simple wedge with a 22 mm square side and both a 60° and 90° angle. It also has a small groove for holding the wire along the faces.
+  If you have access to a 3D printer, [here is a link to an STL file that may help with bending](/assets/documents/3Dflexagon-bender.stl). It is a simple wedge with a 22 mm square side, and both a 60° and 90° angle. It also has a small groove for holding the wire along the faces.
+   
 * Option 2: 22 mm wide piece of wood
-    If you have acess to a table saw and are comfortable with making precise cuts, cut a small board which is 22 mm wide. You can use this for bending the ends of the wires.
+    If you have access to a table saw and are comfortable with making precise cuts, cut a small board which is 22 mm wide. You can use this for bending the ends of the wires.
  
 ## How to Build It
 Here is a photo of the finished assembly.
