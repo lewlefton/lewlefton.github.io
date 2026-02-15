@@ -43,7 +43,7 @@ Here is a photo of the finished assembly.
 * Note 1: There are four wires going into each straw, two from each direction. 
 * Note 2: In this orientation, the wires with right angles (see figure 2) end up making a large equilateral triangle where each side has two wire segments that are “horizontal” with straws pointing outward. The wires with ~60° angles connect the “vertical” straws to the “horizontal” straws in an “up and down” pattern. 
 
-% Click here for a video of the assembly process.
+<!--- Click here for a video of the assembly process. -->
 ## 3D Flexagon Construction
 
 ## Step 1: Cut the wires
