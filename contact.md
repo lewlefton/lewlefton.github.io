@@ -10,7 +10,7 @@ Want to book me for a gig or workshop? Have a question about a project? Just wan
 **Email:** [lew.lefton@gmail.com](mailto:lew.lefton@gmail.com) I generally respond in a finite amount of time. Note that [lew.lefton@gatech.edu](mailto:lew.lefton@gatech.edu) also works!
 
 ## Online and Phone
-I’m happy to do web meetings and I enjoy using my phone as a "dumb devince" for text and voice calls. Send me an email to scheudle.
+I’m happy to do web meetings and I am happy to use my phone as a "dumb devince" for text and voice calls. Send me an email to scheudle.
 
 ## In Real Life
 I live in Decatur, Georgia and I come up the Georgia Tech campus a couple times a month for seminars, etc.  I also spend a fair amount of time in the NC mountains near Asheville. Happy to chat in person over a beverage! Send me an email to scheudle. 
@@ -24,10 +24,10 @@ Georgia Tech School of Mathematics<br>
 Atlanta, GA 30332-0365
 
 ## Social Media
-Search for my name on your favorite social media channel and you will have a nonzero probability of finding me or someone who has the same name as me... Here are some channels:
+Search for my name on your favorite social media channel and you will have a nonzero probability of finding me or someone who has the same name as me... I'm not a big of fan of algorithmic mediation of interactions, so I try not visit these sites too frequently, which means I may not respond right away. But there's still some value there, so here are some channels I occasionally check
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lew-lefton-17453a/)
 * **Facebook:** [Facebook Profile](https://www.facebook.com/lew.lefton)
-* Discord?
+* Discord (TBD)
 
 ## Fill out a Form
 Just say what you want to say right now! *Note this form will require a mildly annoying CAPTCHA to reduce spam. Apologies, but how else do I know that you're not just an AI powered dog running amok?*
