@@ -11,9 +11,11 @@ excerpt: "Mathematician and Comedian<br>He's funny and he can prove it!"
 tiles:
   - image_path: /assets/images/tile-professional.jpg
     alt: "Professional"
-    title: "Professional (Under Construction)"
+    title: "Professional"
     excerpt: "Research, Teaching, and Academic Service"
     url: "/professional/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 
   - image_path: /assets/images/tile-comedy.jpg
     alt: "Comedy"
