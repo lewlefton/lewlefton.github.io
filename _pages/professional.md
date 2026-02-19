@@ -1,11 +1,13 @@
 ---
 layout: single
-title: "Research & Publications"
+title: "Professional Background"
 permalink: /professional/
 author_profile: true
 ---
 
-In recent years, my academic career has been more focused on administration, but I am still very interested in several research areas.
+In recent years, my academic career has been more focused on administration, but I am still very interested in several research areas and remain actively involved in education and STEAM outreach.
+
+## Research
 
 ### Research Interests
 {: .notice--info}
@@ -18,8 +20,6 @@ In recent years, my academic career has been more focused on administration, but
 * Computer architecture
 * Computational humor
 * Applications of humor and improvisation
-
----
 
 ### Publications
 
@@ -41,3 +41,23 @@ In recent years, my academic career has been more focused on administration, but
 * "Quasilinear ellipticity and jumping nonlinearities," with Victor Shapiro, *Rocky Mountain J. Math.* 22 (1992), no. 4, 1385—1403.
 * "Small Solutions to BVP's at Resonance with Nonhomogeneous Nonlinearity," in *Ordinary Differential Equations and Delay Equations*, J. Wiener and J. Hale eds., Pitman Research Notes in Mathematics Series Number 272 (1992), pp. 106—110.
 * "Existence of small solutions to a resonant boundary value problem with large nonlinearity," *J. Differential Equations*, 85 (1990), no. 1, 171—185.
+
+---
+
+## Teaching
+
+### Courses
+
+**Introduction to Parallel and Vector Scientific Computing (MATH/CS 4777)** This course is cross-listed between Mathematics and Computing. The textbook used is *An Introduction to Parallel and Vector Scientific Computation* (co-authored with Ron Shonkwiler). We cover a broad range of topics including numerical linear algebra, Monte Carlo methods, threads programming, MPI, and more. The course is designed to survey a number of important ideas used in scientific computing on various architectures (shared memory, distributed memory, GPUs, etc.).  
+*Previously taught: Fall 2016, Fall 2014, Fall 2012, Fall 2010, Fall 2008, Fall 2006, Fall 2005, Fall 2002*
+
+**The Humor Genome Project (VIP Course)** Think of it as Big Data for Humor. This Vertically Integrated Projects (VIP) course involves the creation and analysis of a repository of humor collected via crowdsourcing and social network integration. Students investigate various techniques of data analytics and learn about cognitive theories of humor. Co-taught with Dr. Pete Ludovice, this course operates in a research and development context and is designed for undergraduates to take over multiple semesters.  
+*Currently taught every Fall and Spring since Fall 2013*
+
+### Other Educational Efforts
+
+**Provost's Commission on Creating the Next in Education** Since January 2016, I have served on the CNE commission, an initiative dedicated to the adoption of new and innovative educational methodologies. We work to explore ideas and define near, medium, and long-term efforts to maximize Georgia Tech's strengths and position the Institute as a transformational leader in education.
+
+**Informal STEAM Education** I have significant interest in informal educational experiences, especially in Science, Technology, Engineering, Arts, and Mathematics (STEAM). This has led to developing original programming for the Atlanta Science Festival, such as *Science Today – A Science Talk Show*, *Science and Mathematics Stand-up Comedy*, and *Science Improv*.
+
+**The Maker Movement** I have worked extensively with the local, regional, and national Maker Movement. Most notably, I helped found Decatur Makers, a makerspace with a strong emphasis on STEAM education and outreach.
