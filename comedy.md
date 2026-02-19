@@ -17,7 +17,12 @@ tiles:
 #    url: "#" 
 ---
 
-## “Laughter is the shortest distance between two people.” —Victor Borge
-Here are some of my comedy milestones..
+{: .pull-quote}
+"Laughter is the shortest distance between two people."
+<br> <small>&mdash; Victor Borge</small>
+
+## Upcoming Comedy (Content coming soon!)
+
+## Comedy you missed (Content coming soon!)
 
 {% include tile_grid.html tiles=page.tiles %}
