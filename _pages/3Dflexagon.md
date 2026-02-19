@@ -87,7 +87,5 @@ Depending on how the wire was cut and bent, the Flexagon may need be adjusted by
 
 [Download PDF Instructions](/assets/documents/3D_flexagon_instructions.pdf){: .btn .btn--primary}
 
-<!--- Here is a video of the assembly:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/placeholder" frameborder="0" allowfullscreen></iframe>
--->
+Here's a video showing how to flex this 3D flexagon
+{% include video id="B0lwkQHcRCw" provider="youtube" %}
