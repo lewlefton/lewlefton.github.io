@@ -11,13 +11,13 @@ excerpt: "Mathematician and Comedian<br>He's funny and he can prove it!"
 tiles:
   - image_path: /assets/images/tile-professional.jpg
     alt: "Professional"
-    title: "Professional"
+    title: "Professional (Under Construction)"
     excerpt: "Research, Teaching, and Academic Service"
     url: "/professional/"
 
   - image_path: /assets/images/tile-comedy.jpg
     alt: "Comedy"
-    title: "Comedy"
+    title: "Comedy (Under Construction)"
     excerpt: "Standup, improv, and April Fools jokes"
     url: "/comedy/"
 
@@ -29,7 +29,7 @@ tiles:
 
   - image_path: /assets/images/tile-personal.jpg
     alt: "Personal"
-    title: "Personal"
+    title: "Personal (Under Construction)"
     excerpt: "Family, Travel, and Holiday Letters"
     url: "/personal/"
 ---
