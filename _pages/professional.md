@@ -48,11 +48,19 @@ In recent years, my academic career has been more focused on administration, but
 
 ### Courses
 
+<img src="/assets/images/book-cover.jpg" alt="An Introduction to Parallel and Vector Scientific Computation" class="align-right" style="width: 150px; margin-left: 20px;">
+
 **Introduction to Parallel and Vector Scientific Computing (MATH/CS 4777)** This course is cross-listed between Mathematics and Computing. The textbook used is *An Introduction to Parallel and Vector Scientific Computation* (co-authored with Ron Shonkwiler). We cover a broad range of topics including numerical linear algebra, Monte Carlo methods, threads programming, MPI, and more. The course is designed to survey a number of important ideas used in scientific computing on various architectures (shared memory, distributed memory, GPUs, etc.).  
 *Previously taught: Fall 2016, Fall 2014, Fall 2012, Fall 2010, Fall 2008, Fall 2006, Fall 2005, Fall 2002*
 
+<div style="clear: both;"></div> <br>
+
+<img src="/assets/images/humor-genome.jpg" alt="Humor Genome Project Logo" class="align-right" style="width: 150px; margin-left: 20px;">
+
 **The Humor Genome Project (VIP Course)** Think of it as Big Data for Humor. This Vertically Integrated Projects (VIP) course involves the creation and analysis of a repository of humor collected via crowdsourcing and social network integration. Students investigate various techniques of data analytics and learn about cognitive theories of humor. Co-taught with Dr. Pete Ludovice, this course operates in a research and development context and is designed for undergraduates to take over multiple semesters.  
 *Currently taught every Fall and Spring since Fall 2013*
+
+<div style="clear: both;"></div>
 
 ### Other Educational Efforts
 
