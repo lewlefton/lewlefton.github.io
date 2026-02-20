@@ -19,7 +19,7 @@ tiles:
 
   - image_path: /assets/images/tile-comedy.jpg
     alt: "Comedy"
-    title: "Comedy (Under Construction)"
+    title: "Comedy"
     excerpt: "Standup, improv, and April Fools jokes"
     url: "/comedy/"
 
@@ -31,7 +31,7 @@ tiles:
 
   - image_path: /assets/images/tile-personal.jpg
     alt: "Personal"
-    title: "Personal (Under Construction)"
+    title: "Personal"
     excerpt: "Family, Travel, and Holiday Letters"
     url: "/personal/"
 ---

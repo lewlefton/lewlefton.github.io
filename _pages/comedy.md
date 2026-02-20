@@ -28,12 +28,18 @@ Here's a [Story Collider podcast](https://www.storycollider.org/stories/2018/1/5
 More recently I've taught classes for STEM professionals to improve their communication and public speaking skills by teaching them the basics of stand-up comedy. You should sign up for the next one! I have been teaching these through [Science for Georgia](https://scienceforgeorgia.org/).
 
 I've also spent some time creating [April Fool's Jokes](https://lewlefton.gatech.edu/april-fool/) that occasionally get a little attention.
-<!--->
+
+## New Orleans Comedy 
+When I lived in New Orleans in the 1990's I was fortunate to be involved with some very talented performers , some of whom you may know (like Ken Jeong). We did regular stand up comedy shows with Comedy Gumbo, a local comedian network I started, and also with Brown!, a local improv group I was in for many years.
+
+<img src="/assets/images/202211_Ken_Lew_Mike.jpg" alt="Ken Jeong, Lew Lefton, Mike O'Connell" class="align-right" style="width: 150px; margin-left: 20px;">
+
+<!--
 ## Upcoming Comedy (Content coming soon!)
 
 ## Comedy you missed (Content coming soon!)
 
 {% include tile_grid.html tiles=page.tiles %}
-<--->
+-->
 
 
