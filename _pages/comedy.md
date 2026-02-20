@@ -32,13 +32,10 @@ I've also spent some time creating [April Fool's Jokes](https://lewlefton.gatech
 ## New Orleans Comedy 
 When I lived in New Orleans in the 1990's I was fortunate to be involved with some very talented performers , some of whom you may know (like Ken Jeong). We did regular stand up comedy shows with Comedy Gumbo, a local comedian network I started, and also with Brown!, a local improv group I was in for many years.
 
-<img src="/assets/images/202211_Ken_Lew_Mike.jpg" alt="Ken Jeong, Lew Lefton, Mike O'Connell" class="align-right" style="width: 150px; margin-left: 20px;">
-
+<img src="/assets/images/202211_Ken_Lew_Mike.jpg" alt="Ken Jeong, Lew Lefton, Mike O'Connell" class="align-right" style="width: 50%; max-width: 100%; height: auto;">
 <!--
 ## Upcoming Comedy (Content coming soon!)
-
 ## Comedy you missed (Content coming soon!)
-
 {% include tile_grid.html tiles=page.tiles %}
 -->
 

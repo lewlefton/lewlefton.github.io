@@ -12,8 +12,10 @@ I strive to maintain a balance between my job and the rest of my life. Outside o
 My wife is Dr. Enid Steinbart, who worked as the Director of Advising and Assessment in the Georgia Tech School of Math before her retirement in 2023. We are proud parents of three awesome young women: Hannah, Natalie, and Monica. 
 
 Here are some faces to go with the names:
-
-{% include figure image_path="/assets/images/family-photo.jpg" alt="Monica, Nevo Polansky, Hannah, Enid Lew, Natalie, Branden Leonhardt (with Marge and Theo)" caption="The Lefton-Steinbart Family" class="align-center" %}
+<figure style="width: 50%; margin: 0 auto; max-width: 100%;">
+  <img src="/assets/images/family-photo.jpg" alt="Monica, Nevo Polansky, Hannah, Enid Lew, Natalie, Branden Leonhardt (with Marge and Theo)" style="width: 100%; height: auto; border-radius: 5px;">
+  <figcaption style="text-align: center; font-size: 0.85em; margin-top: 10px;">The Lefton-Steinbart Family</figcaption>
+</figure>
 
 One (lazy) way to tell our story is to post our archive of [annual holiday letters](https://lewlefton.gatech.edu/lew-lefton-and-enid-steinbarts-holiday-letter-page/) (which is still on my old website).
 
