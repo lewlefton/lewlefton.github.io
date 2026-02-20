@@ -21,8 +21,19 @@ tiles:
 "Laughter is the shortest distance between two people."
 <br> <small>&mdash; Victor Borge</small>
 
+Not exactly a typical hobby for a mathematics professor and college administrator, but believe me, it can be just as challenging! I've been performing stand-up and improv comedy since the 1980's. 
+
+Here's a [Story Collider podcast](https://www.storycollider.org/stories/2018/1/5/math-problems-stories-about-math) where I talk a little bit about that part of my life. This [article in the Atlanta Journal Constitution](https://www.ajc.com/blog/get-schooled/fun-with-numbers-georgia-tech-prof-writes-equations-and-jokes/0bAzsfdAx3g52w9qbnSsDO/) also featured my work in this space. I've even published about humor, but they are dry academic papers and not very funny. See details on my [Professional](/professional/) page. And if you're a glutton for punishment, you can sit through an [hour](https://www.youtube.com/watch?v=MwjryPRts4A) [of](https://www.youtube.com/watch?v=q6YusliHSyw) [math](https://www.youtube.com/watch?v=lIn4nTBTRG0) [jokes](https://www.youtube.com/watch?v=IgUcGiTwP5E) which I presented at a conference in 2010, or check out [my youtube channel](https://www.youtube.com/@LewLefton).
+
+More recently I've taught classes for STEM professionals to improve their communication and public speaking skills by teaching them the basics of stand-up comedy. You should sign up for the next one! I have been teaching these through [Science for Georgia](https://scienceforgeorgia.org/).
+
+I've also spent some time creating [April Fool's Jokes](https://lewlefton.gatech.edu/april-fool/) that occasionally get a little attention.
+<!--->
 ## Upcoming Comedy (Content coming soon!)
 
 ## Comedy you missed (Content coming soon!)
 
 {% include tile_grid.html tiles=page.tiles %}
+<--->
+
+

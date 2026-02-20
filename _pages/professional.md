@@ -5,7 +5,11 @@ permalink: /professional/
 author_profile: true
 ---
 
-In recent years, my academic career has been more focused on administration, but I am still very interested in several research areas and remain actively involved in education and STEAM outreach.
+As [described elsewhere](https://lewlefton.com/about/), my academic career has spanned several institutions and several roles. 
+
+[Download a recent version of my CV](/assets/documents/Lefton.CV.Feb2026.pdf){: .btn .btn--primary}
+
+Even after retirement, I remain interested in several research areas and am actively involved in education and STEAM outreach.
 
 ## Research
 
@@ -20,9 +24,13 @@ In recent years, my academic career has been more focused on administration, but
 * Computer architecture
 * Computational humor
 * Applications of humor and improvisation
+* Recreational Mathematics
 
 ### Publications
 
+* Into the Makerverse: Communal Tangible Making and Place-Based Futuring with AI, co-authors Supratim Pait, Michael Nitsche, Noura Howell, Jeremiah Long, Lorraine Kowalski, Crystal Byrd,, Sylvia Janicki, Yuhan Hou, Thais Alvarenga, Xingyu Li, and Vyshnavi Namani, *Proceedings of the 20th International Conference on Tangible, Embedded, and Embodied Interaction (TEI '26). Association for Computing Machinery*, New York, NY, USA (2026)
+* [A Socratic RAG Approach to Connect Natural Language Queries on Research Topics with Knowledge Organization Systems](https://arxiv.org/abs/2502.15005), co-authors K. Rong, C. Dankhara, F. Kausar, A. H. Hamdallahi3, *Assoc. for Advancement of AI conference workshop: TIKA-2025*, (2025)
+* [Phoenix: The Revival of Research Computing and the Launch of the New Cost Model at Georgia Tech](https://dl.acm.org/doi/10.1145/3491418.3530767), with Jezghan, A., Sarajlic, S., Brandon, M., Bright, N., Belgin, M., et. al., *Proceedings of PEARC 2022, Practice and Experience in Advanced Research Computing, ACM* (2022), 
 * Humor Applied to STEM Education, with Ludovice, P. and Hu, D. *Systems Research and Behavioral Science*, 34 (2017), 216—226.
 * Optimal Numerical Flux of Power Law Fluids in Some Partially Full Pipes, co-author D. Wei, Y. Liu, *International Journal of Computational Fluid Dynamics*, (2014) 1-12.
 * Humorous Improvisation Tailored for Technical Innovation, with Ludovice, P., Catrambone, R., *Conference Proceedings of the ASEE Southeast Section*, 2013.
@@ -50,8 +58,8 @@ In recent years, my academic career has been more focused on administration, but
 
 <img src="/assets/images/book-cover.jpg" alt="An Introduction to Parallel and Vector Scientific Computation" class="align-right" style="width: 150px; margin-left: 20px;">
 
-**Introduction to Parallel and Vector Scientific Computing (MATH/CS 4777)** This course is cross-listed between Mathematics and Computing. The textbook used is *An Introduction to Parallel and Vector Scientific Computation* (co-authored with Ron Shonkwiler). We cover a broad range of topics including numerical linear algebra, Monte Carlo methods, threads programming, MPI, and more. The course is designed to survey a number of important ideas used in scientific computing on various architectures (shared memory, distributed memory, GPUs, etc.).  
-*Previously taught: Fall 2016, Fall 2014, Fall 2012, Fall 2010, Fall 2008, Fall 2006, Fall 2005, Fall 2002*
+**Introduction to Parallel and Vector Scientific Computing (MATH/CS 4777)** This course was cross-listed between Mathematics and Computing. I used my textbook *An Introduction to Parallel and Vector Scientific Computation* co-authored with Ron Shonkwiler. WThe course covered a broad range of topics including numerical linear algebra, Monte Carlo methods, threads programming, MPI, and more. The course was designed to survey a number of important ideas used in scientific computing on various architectures (shared memory, distributed memory, GPUs, etc.).  
+
 
 <div style="clear: both;"></div> <br>
 
@@ -68,4 +76,4 @@ In recent years, my academic career has been more focused on administration, but
 
 **Informal STEAM Education** I have significant interest in informal educational experiences, especially in Science, Technology, Engineering, Arts, and Mathematics (STEAM). This has led to developing original programming for the Atlanta Science Festival, such as *Science Today – A Science Talk Show*, *Science and Mathematics Stand-up Comedy*, and *Science Improv*.
 
-**The Maker Movement** I have worked extensively with the local, regional, and national Maker Movement. Most notably, I helped found Decatur Makers, a makerspace with a strong emphasis on STEAM education and outreach.
+**The Maker Movement** I have worked extensively with the local, regional, and national Maker Movement. Most notably, I helped found Decatur Makers, a makerspace with a strong emphasis on STEAM education and outreach. See 
