@@ -35,10 +35,10 @@ In 2016, I was invited to visit the White House Office of Science and Technology
 
 The basic idea is to consider the following parallel. The establishment of land grant universities (and soon after agricultural experiment stations and cooperative extension services) in the late 1800's was in response to a national need to stay competitive in the agricultural and industrial revolution. Today, there is arguably a national need to stay competitive in STEM fields, so perhaps we should consider establishing STEM Extension Services (which I believe could look a lot like makerspaces) across rural and urban areas to provide hands-on learning in design, art, science, and technology. You can see more details in the document linked above.
 
-**Update 1:** {: .notice--info}
-The idea of a STEM Extension Service is publicly mentioned in a recently released report from the Provost of Georgia Tech. This report was produced after two years of research and deliberation on the future of Higher Education, and is part of the Commission on Creating the Next in Education (CNE). The Extension Service idea appears on p.4 of the "Learning by Doing" supplement.
+**Update 1:**
+The idea of a STEM Extension Service is publicly mentioned in a [report from the Provost of Georgia Tech](http://www.provost.gatech.edu/commission-creating-next-education). This report was produced after two years of research and deliberation on the future of Higher Education, and is part of the Commission on Creating the Next in Education (CNE). The Extension Service idea appears on p.4 of the "Learning by Doing" supplement.
 
-**Update 2:** {: .notice--success}
+**Update 2:** 
 There seems to be some continued interest in developing this idea under the current working name of Tech Extension (or maybe something else). In particular, after the Nation of Makers Conference (aka NOMCON), a working group on the topic was formed. Stay tuned! And if you are interested in this topic, please feel free to [contact me](/contact/).
 
 ---

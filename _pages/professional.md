@@ -72,7 +72,7 @@ Even after retirement, I remain interested in several research areas and am acti
 
 ### Other Educational Efforts
 
-**Provost's Commission on Creating the Next in Education** Since January 2016, I have served on the CNE commission, an initiative dedicated to the adoption of new and innovative educational methodologies. We work to explore ideas and define near, medium, and long-term efforts to maximize Georgia Tech's strengths and position the Institute as a transformational leader in education.
+**Provost's Commission on Creating the Next in Education** I served on the CNE commission, an initiative dedicated to the adoption of new and innovative educational methodologies. We work to explore ideas and define near, medium, and long-term efforts to maximize Georgia Tech's strengths and position the Institute as a transformational leader in education.
 
 **Informal STEAM Education** I have significant interest in informal educational experiences, especially in Science, Technology, Engineering, Arts, and Mathematics (STEAM). This has led to developing original programming for the Atlanta Science Festival, such as *Science Today – A Science Talk Show*, *Science and Mathematics Stand-up Comedy*, and *Science Improv*.
 
