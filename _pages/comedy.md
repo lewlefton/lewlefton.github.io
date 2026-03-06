@@ -23,12 +23,15 @@ tiles:
 
 Not exactly a typical hobby for a mathematics professor and college administrator, but believe me, it can be just as challenging! I've been performing stand-up and improv comedy since the 1980's. 
 
-Here's a [Story Collider podcast](https://www.storycollider.org/stories/2018/1/5/math-problems-stories-about-math) where I talk a little bit about that part of my life. This [article in the Atlanta Journal Constitution](https://www.ajc.com/blog/get-schooled/fun-with-numbers-georgia-tech-prof-writes-equations-and-jokes/0bAzsfdAx3g52w9qbnSsDO/) also featured my work in this space. I've even published about humor, but they are dry academic papers and not very funny. See details on my [Professional](/professional/) page. And if you're a glutton for punishment, you can sit through an [hour](https://www.youtube.com/watch?v=MwjryPRts4A) [of](https://www.youtube.com/watch?v=q6YusliHSyw) [math](https://www.youtube.com/watch?v=lIn4nTBTRG0) [jokes](https://www.youtube.com/watch?v=IgUcGiTwP5E) which I presented at a conference in 2010, or check out [my youtube channel](https://www.youtube.com/@LewLefton).
+* Here's a [Story Collider podcast](https://www.storycollider.org/stories/2018/1/5/math-problems-stories-about-math) where I give a monolog on being a math comedian.
+* This [article in the Atlanta Journal Constitution](https://www.ajc.com/blog/get-schooled/fun-with-numbers-georgia-tech-prof-writes-equations-and-jokes/0bAzsfdAx3g52w9qbnSsDO/) also featured my work in this space. 
+* Back in 1996, I was [interviewed by Scott Simon on NPR's Weekend edition](https://www.youtube.com/watch?v=l6pNQj1f6pw) on why there is no Nobel Prize in Mathematics. This was just meant to be a fun conversation, not carefully researched. There are many [more definitive explanations](https://en.wikipedia.org/wiki/Nobel_Prize_controversies)
+* I've published research about humor, but these are dry academic papers and not very funny. See details on my [Professional](/professional/) page.
+* And if you're a glutton for punishment, you can sit through an [hour](https://www.youtube.com/watch?v=MwjryPRts4A) [of](https://www.youtube.com/watch?v=q6YusliHSyw) [math](https://www.youtube.com/watch?v=lIn4nTBTRG0) [jokes](https://www.youtube.com/watch?v=IgUcGiTwP5E) which I presented at a conference in 2010, or check out [my youtube channel](https://www.youtube.com/@LewLefton).
 
 More recently I've taught classes for STEM professionals to improve their communication and public speaking skills by teaching them the basics of stand-up comedy. You should sign up for the next one! I have been teaching these through [Science for Georgia](https://scienceforgeorgia.org/).
 
 I've also spent some time creating [April Fool's Jokes](https://lewlefton.gatech.edu/april-fool/) that occasionally get a little attention.
-
 
 <img src="/assets/images/202211_Ken_Lew_Mike.jpg" alt="Ken Jeong, Lew Lefton, Mike O'Connell" class="align-right" style="width: 50%; ; max-width: 100%; height: auto; margin-left: 20px;">
 
